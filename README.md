@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Inuka Asith</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">I am BICT Undergratude</h3>
 
 ---
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **inukaasith30@gmail.com**
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="middle">Connect with me:</h3>
 <p align="middle">
