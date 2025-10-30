@@ -21,3 +21,7 @@
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p align="middle"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inuka-asith30&show_icons=true&locale=en&layout=compact" alt="inuka-asith30" /></p>
+
+![Inuka Asith's github stats](https://github-readme-stats.vercel.app/api?username=Inuka-Asith30&show_icons=true&theme=tokyonight)
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inuka-Asith30&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
