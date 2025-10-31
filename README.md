@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inuka Asith</h1>
-<h3 align="center">I am BICT Undergratude | Passionate about software Development</h3>
+<h3 align="center">I am BICT Undergraduate | Passionate about software Development</h3>
 
 ---
 <br>
