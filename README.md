@@ -20,7 +20,7 @@
  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
 </div>
 <br>
-<img align="right" alt="Coding" width="400" src="https://mohamed-dev-profile.netlify.app/assets/coding2-f2cb4860.gif">
+<img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 <br><br>
 
 - 🔭 I’m currently working on **Java Projects**
